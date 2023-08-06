@@ -1,21 +1,21 @@
 ![logo](https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557850_960_720.jpg)
 <h1 align="center">Hi 👋, I'm Shofick Hossain</h1>
-<h3 align="center">Founder of HACKaTUBE & A Full Stack Developer</h3>
+<h3 align="center">Founder of DealKaro & A Full Stack Developer</h3>
 <img align="right" alt="Full Stack Developer" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-computer-mind&label=Profile%20views&color=0e75b6&style=flat" alt="shofickhossain" /> </p>
 
-- 🔭 I’m Founder and Deveoper of [HACKaTUBE](https://play.google.com/store/apps/details?id=com.TheComputerMind.android)
+- 🔭 I’m Founder and Deveoper of [DealKaro](https://dealkaroshop.com/)
 
 - 🌱 I’m currently learning **Btech In Computer Science**
 
 - 👨‍💻 All of my projects are available at [Google PlayStore Profile](https://play.google.com/store/apps/dev?id=6863213620683973304)
 
-- 💬 Ask me about **Flutter , NodeJs , ExpressJs , Aws , Gcloud , Javascript , Python , Reinforcement Learning , Server Management , VPS , Hosting , Startup Development , Youtube.**
+- 💬 Ask me about **Flutter , NodeJs , ExpressJs , Aws , Gcloud , Javascript , Python , Reinforcement Learning , Server Management , VPS , Hosting , Startup Development , Youtube , Kotlin , Javascript , Dart , DSA , Oops.**
 
 - 📫 How to reach me **Shofickhossain@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xaEqE9baIOnIXxcTezs00R7ZI74sbO17/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1E_cVin1DItr2HquWYlFUCwtct4dF-SxU/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am SuperHero**
 
