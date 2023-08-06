@@ -7,7 +7,7 @@
 
 - 🔭 I’m Founder and Deveoper of [DealKaro](https://dealkaroshop.com/)
 
-- 🌱 I’m currently learning **Btech In Computer Science**
+- 🌱 I Have Completed **Btech In Computer Science**
 
 - 👨‍💻 All of my projects are available at [Google PlayStore Profile](https://play.google.com/store/apps/dev?id=6863213620683973304)
 
